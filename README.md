@@ -46,7 +46,6 @@ Before deploying the AWS Lambda function, ensure you have the required Python li
 
 Now, your Lambda function includes the `requests` library as a custom layer.
 
-
 ## Usage
 
 1. Deploy the AWS Lambda function.
